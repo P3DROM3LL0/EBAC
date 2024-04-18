@@ -1,1 +1,1 @@
-Arquivos criados como atividades do curso de engenharia front-end - EBAC.
+Arquivos criados como atividade do curso de engenharia front-end - EBAC.
